@@ -1,0 +1,18 @@
+{
+   "name": "bandwidth-hero-proxy",
+   "version": "0.1.0",
+   "description": "Proxy for bandwith hero extension",
+   "main": "main.js",
+   "author": "Dani Pragustia",
+   "license": "MIT",
+   "dependencies": {
+      "axios": "^1.7.7",
+      "express": "^4.21.1",
+      "lodash": "^4.17.21",
+      "resemblejs": "^5.0.p",
+      "sharp": "^0.30.4"
+   },
+   "scripts": {
+      "start": "node main.js"
+   }
+}
